@@ -843,3 +843,24 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.18-14.33.51:981][316]LogSavePackage: Moving '../../../../../../Users/michelly/Documents/A.Kilka-M.Pasierbiewicz-PZP/MyProject/Saved/BP_FloorTileC33723A2413D99032B8B5F956C6440DD.tmp' to '../../../../../../Users/michelly/Documents/A.Kilka-M.Pasierbiewicz-PZP/MyProject/Content/BP_FloorTile.uasset'
 [2021.05.18-14.33.52:014][316]AssetCheck: New page: Asset Save: BP_FloorTile
 [2021.05.18-14.33.52:014][316]LogContentValidation: Display: Validating Blueprint /Game/BP_FloorTile.BP_FloorTile
+[2021.05.18-14.47.15:658][550]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.26/FeaturePacks/TP_ThirdPersonBP.upack)
+[2021.05.18-14.47.15:658][550]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.18-14.47.15:658][550]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.18-14.47.15:658][550]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.18-14.47.15:675][550]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2021.05.18-14.47.15:677][550]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/ThirdPersonOverview.uasset" to "../../../../../../Users/michelly/Documents/A.Kilka-M.Pasierbiewicz-PZP/MyProject/Content/ThirdPersonBP/ThirdPersonOverview.uasset"
+[2021.05.18-14.47.15:681][550]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" to "../../../../../../Users/michelly/Documents/A.Kilka-M.Pasierbiewicz-PZP/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset"
+[2021.05.18-14.47.15:683][550]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" to "../../../../../../Users/michelly/Documents/A.Kilka-M.Pasierbiewicz-PZP/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset"
+[2021.05.18-14.47.15:719][550]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" to "../../../../../../Users/michelly/Documents/A.Kilka-M.Pasierbiewicz-PZP/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap"
+[2021.05.18-14.47.15:732][550]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" to "../../../../../../Users/michelly/Documents/A.Kilka-M.Pasierbiewicz-PZP/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset"
+[2021.05.18-14.47.15:783][550]LogSavePackage: Moving '../../../../../../Users/michelly/Documents/A.Kilka-M.Pasierbiewicz-PZP/MyProject/Saved/ThirdPersonOverview196970474AF6EC9E058C54BBDCFE17AB.tmp' to '../../../../../../Users/michelly/Documents/A.Kilka-M.Pasierbiewicz-PZP/MyProject/Content/ThirdPersonBP/ThirdPersonOverview.uasset'
+[2021.05.18-14.47.15:807][550]AssetCheck: New page: Asset Save: ThirdPersonOverview
+[2021.05.18-14.47.15:807][550]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview
+[2021.05.18-14.47.19:868][ 11]LogSlate: Window 'Add Content to the Project' being destroyed
+[2021.05.18-14.48.16:484][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2021.05.18-14.48.45:514][543]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.05.18-14.48.45:515][543]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.027
+[2021.05.18-14.48.45:516][543]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonGameMode] ([1] browsable assets)...
+[2021.05.18-14.48.45:516][543]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonGameMode]
+[2021.05.18-14.48.45:519][543]LogSavePackage: Moving '../../../../../../Users/michelly/Documents/A.Kilka-M.Pasierbiewicz-PZP/MyProject/Saved/ThirdPersonGameMode_Auto27F561A9C4D8F8B6DB9DE909E5E4AD17B.tmp' to '../../../../../../Users/michelly/Documents/A.Kilka-M.Pasierbiewicz-PZP/MyProject/Saved/Autosaves/Game/ThirdPersonGameMode_Auto2.uasset'
+[2021.05.18-14.48.45:523][543]LogFileHelpers: Auto-saving content packages took 0.008
